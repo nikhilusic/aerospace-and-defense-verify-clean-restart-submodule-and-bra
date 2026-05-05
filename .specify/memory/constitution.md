@@ -1,14 +1,14 @@
 # aerospace-and-defense-verify-clean-restart-submodule-and-bra Constitution
 
 Generated on 2026-05-05 through the technology selection workflow.
-Regenerated at: 2026-05-05T12:34:54.102Z
-Trigger source: specification-change:standard
+Regenerated at: 2026-05-05T12:43:32.174Z
+Trigger source: ui-push-story
 
 This constitution defines the baseline engineering standards for the project and applies Siemens-inspired software design principles as mandatory delivery guidance.
 
 ## Technology Baseline
 
-- Industry domain: Aerospace and Defense
+- Industry domain: Consumer Package Goods
 - Architecture pattern: Microservices
 - Frontend stack: Angular
 - Backend stack: Python
@@ -70,5 +70,3 @@ Generated code MUST include observable failure modes, safe defaults, clear state
 9. Enforce traceability from requirement to story, acceptance criteria, tests, and implementation artifacts.
 10. Use security and privacy by design: least privilege, validated inputs, and auditable operational events.
 11. Protect maintainability with modular code, clear naming, and architecture conformance checks in reviews.
-12. Register generated child repository as git submodule
-13. Keep child branching isolated from parent

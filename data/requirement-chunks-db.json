@@ -1,0 +1,105 @@
+{
+  "documents": [
+    {
+      "id": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "fileName": "CV-E000G Hazardous Material Management System agreement.pdf",
+      "source": "standard",
+      "domain": "Aerospace & Defense",
+      "context": "Create a end to end resource management application for the selected industry domain",
+      "chunkCount": 10,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "6887ca7b-e3c9-4d42-a58a-d2eb1f9731d8",
+      "documentId": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "index": 1,
+      "text": "%PDF-1.4\n%����\n1 0 obj\n<<\n/Type /Catalog\n/Pages 2 0 R\n/Names 3 0 R\n/Lang (EN)\n>>\nendobj\n4 0 obj\n<<\n/CreationDate (D:20260413110713+01'00')\n/ModDate (D:20260413110713+01'00')\n/Creator (XSL Formatter V4.3 MR7 \\(4,3,2009,0413\\) for Linux64)\n/Producer (Antenna House PDF Output Library 2.6.0 \\(Linux64\\))\n/Trapped /False\n/MSIP_Label_707c3c3c-9479-4e9e-ace6-d736970bf3b0_Enabled (true)\n/MSIP_Label_707c3c3c-9479-4e9e-ace6-d736970bf3b0_ActionId (442f3458-5c99-46dc-81f8-e40a94a0cbff)\n/MSIP_Label_707c3c3c-9479-4e9e-ace6-d736970bf3b0_Method (Privileged)\n/MSIP_Label_707c3c3c-9479-4e9e-ace6-d736970bf3b0_SetDate (2026-04-13T11:07:13Z)\n/MSIP_Label_707c3c3c-9479-4e9e-ace6-d736970bf3b0_SiteId (38ae3bcd-9579-4fd4-adda-b42e1495d55a)\n/Document_Confidentiality (Confidential)\n/MSIP_Label_707c3c3c-9479-4e9e-ace6-d736970bf3b0_Name (confidential-default)\n/MSIP_Label_707c3c3c-9479-4e9e-ace6-d736970bf3b0_ContentBits (0)\n>>\nendobj\n2 0 obj\n<<\n/Type /Pages\n/Kids [5 0 R]\n/Count 4\n/MediaBox [0 0 595.27563 841.88977]\n/CropBox [0 0 595.27563 841.88977]\n/BleedBox [0 0 595.27563 841.88977]\n>>\nendobj\n3 0 obj\n<<\n/Dests 6 0 R\n>>\nendobj\n5 0 obj\n<<\n/Type /Pages\n/Kids [7 0 R 8 0 R 9 0 R 10 0 R]\n/Count 4\n/Parent 2 0 R\n>>\nendo",
+      "charCount": 1200,
+      "wordCount": 130,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    },
+    {
+      "id": "9b05ed66-8189-472e-900f-227940743814",
+      "documentId": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "index": 2,
+      "text": "3 841.88977]\n/BleedBox [0 0 595.27563 841.88977]\n>>\nendobj\n3 0 obj\n<<\n/Dests 6 0 R\n>>\nendobj\n5 0 obj\n<<\n/Type /Pages\n/Kids [7 0 R 8 0 R 9 0 R 10 0 R]\n/Count 4\n/Parent 2 0 R\n>>\nendobj\n6 0 obj\n<<\n/Kids [11 0 R]\n>>\nendobj\n7 0 obj\n<<\n/Type /Page\n/Parent 5 0 R\n/Resources <<\n/Font <<\n/F0 12 0 R\n/F1 13 0 R\n/F2 14 0 R\n>>\n/ProcSet [/PDF /Text /ImageC]\n>>\n/MediaBox [0 0 595.27563 841.88977]\n/CropBox [0 0 595.27563 841.88977]\n/BleedBox [0 0 595.27563 841.88977]\n/Contents [15 0 R]\n>>\nendobj\n8 0 obj\n<<\n/Type /Page\n/Parent 5 0 R\n/Resources <<\n/Font <<\n/F1 13 0 R\n/F0 12 0 R\n/F2 14 0 R\n/F3 16 0 R\n>>\n/ProcSet [/PDF /Text /ImageC]\n>>\n/MediaBox [0 0 595.27563 841.88977]\n/CropBox [0 0 595.27563 841.88977]\n/BleedBox [0 0 595.27563 841.88977]\n/Contents [17 0 R]\n>>\nendobj\n9 0 obj\n<<\n/Type /Page\n/Parent 5 0 R\n/Resources <<\n/Font <<\n/F1 13 0 R\n/F0 12 0 R\n>>\n/ProcSet [/PDF /Text /ImageC]\n>>\n/MediaBox [0 0 595.27563 841.88977]\n/CropBox [0 0 595.27563 841.88977]\n/BleedBox [0 0 595.27563 841.88977]\n/Contents [18 0 R]\n>>\nendobj\n10 0 obj\n<<\n/Type /Page\n/Parent 5 0 R\n/Resources <<\n/Font <<\n/F1 13 0 R\n/F0 12 0 R\n>>\n/ProcSet [/PDF /Text /ImageC]\n>>\n/MediaBox [0 0 595.27563 841.88977]\n/CropBox [0 0 595.27563 841.889",
+      "charCount": 1200,
+      "wordCount": 253,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    },
+    {
+      "id": "0473d685-f938-40f5-9e3a-1f8772911245",
+      "documentId": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "index": 3,
+      "text": "bj\n<<\n/Type /Page\n/Parent 5 0 R\n/Resources <<\n/Font <<\n/F1 13 0 R\n/F0 12 0 R\n>>\n/ProcSet [/PDF /Text /ImageC]\n>>\n/MediaBox [0 0 595.27563 841.88977]\n/CropBox [0 0 595.27563 841.88977]\n/BleedBox [0 0 595.27563 841.88977]\n/Contents [19 0 R]\n>>\nendobj\n11 0 obj\n<<\n/Limits [(InA.Export4.text1) (__END__)]\n/Names [(InA.Export4.text1) 20 0 R (InA.Export4.text2) 21 0 R (InA.ShortDescription) 22 0 R (InA.TeamTopicsTable) 23 0 R (__END__) 24 0 R]\n>>\nendobj\n12 0 obj\n<<\n/Type /Font\n/Subtype /Type1\n/BaseFont /Helvetica-Bold\n>>\nendobj\n13 0 obj\n<<\n/Type /Font\n/Subtype /Type1\n/BaseFont /Helvetica\n>>\nendobj\n14 0 obj\n<<\n/Type /Font\n/Subtype /Type1\n/BaseFont /Times-Roman\n>>\nendobj\n15 0 obj\n<<\n/Length 1891\n/Filter /FlateDecode\n>>\nstream",
+      "charCount": 725,
+      "wordCount": 123,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    },
+    {
+      "id": "91c8c5c2-76df-484d-a6cd-83bfb1e8598b",
+      "documentId": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "index": 4,
+      "text": "xڵX�r�6\u0012}�W�)�ٲ`\u0010�ϛ7�dg+�LV�N\u001e\\��I�B\u0006$�q�>�AR\")y�ڭXU�\n���ӧO7��9L೤_���(�Ð�\u0005��_q�\u001f� ��<����E�d̏+\u000b�^N��\u0017qo��<]��؅Ű q��\u0011�c\u001e\u0017�\\�����d��1\u0014'\u0016<\nE̤�2�غ����ǻ_����gw�ÞK�p)��\u00038�\u001e,:3�.�� ����@X�MŚ�b\u001f��Q��>\u001a�\nU6lS\u0019�jw��4��}�1���i�\u001aŒ2c�ԓʫ��w�̓NU�fq��\u0017 &�h\u0012���/$\u0002\tx$\u0002\n�_ɟ�ɪ�F,\bE'9�(��.��3�+����woٷ�]ZW�0�B�q\u0004�\u0004����;!���o.L���x5\u000e\u001f\u001e\b7\u001a\u0007��6�>\u0001�c�?��w�6�\u0004]�u�\ng��X��u`�t���-n�#�F�\u0006�>&�Ѫf/�O��\u0002�p\u0019��\n��;u��\u0001�l�Ϯ�ǢB\u0006=�����&�=��Խ���ν\f��\u001b�v�6޲�\u001cM=<���\u0007j�V鶬��������\u001c�4�\u0004.�\u001ft�\u001b���j���Coo���β\\�; 0�y͒�mZ\u0003�\f|�S�\u001f�Y[\u000fpw�-])�\u000e�q!�+�y��d��$��8@, �B`m��s̨\n\f�)��F���\u0015|J��It��t9��9\u000f\u000eP^���U\n\u001b;��N�<fu�P�\u0015��׵\u001a�\u001a�؜\u0005� Bt�\u0001��t��؍=VOʔ\u001d\n.�{��+\f��.9��\u001aE'\u0014�&�)���*�;E:H��\u0002K3�n�{\u001f׃���*�u�h!ZX��H�6\u0016.��2��HݢtRP\u0006U�V\u0014���O����\u0006\u001aMU���۪؁b\t%u���ِKK����\u0006s�\u0013̕�K��k�vR���n(㐚��\u0015��\u001d~���������-����)�)1���o�j�\u0007��c��;e��,ѓ=�,�}�R\u000b9��\u001c�^;P>��N\u0019 \\��\u0015T�\u0015�[kφ%�$w&��l^�(2]�H��n����.�d�\u0001��Ͷ2U��E\u0011d��\u0001')Ծ�zYD�n����3��\b�\u001e�M�\"�\"�\u0017;���\\?M�zH�? ~�h�,�z�zi��֮ޚt�@��%�DnѦ����^�b�\ft�*�\u0012�?�L��\u001bCX�\u001a\n�l�/v���R���J;�\u001dL]��L��t,<Rꨝ� ��\u0003�\u001fힺL�6SsN�\n�\fP�u��\u001a�*\u0007�J�uX��{������\u000f\u0003Z \u0007\u0003d\u0001�s�ץ��7���V�iP�\u0019��>\u0013��\n<bMv�BW�m՚��x0�t��À2L0�\u0013\u0007\u0016c\u0007��\u0001���]���G4\u0002e�� s���)�\u001d`��=�F\"�-R~�\u0007R�\fW\u0007\u00183d����ܰ״o�L}i���k߆���M�~\u0010�Q�=���~\u0005�S�΂]8\"�� �\u0014c���\f�oՑr\u001c\u0006!$\u000f����zR��.\u0014d\u001e��� \t�\u0016��Y���W�����4�",
+      "charCount": 1200,
+      "wordCount": 38,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    },
+    {
+      "id": "820a621a-42d6-49a0-b778-79c2d344e47b",
+      "documentId": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "index": 5,
+      "text": "���V�iP�\u0019��>\u0013��\n<bMv�BW�m՚��x0�t��À2L0�\u0013\u0007\u0016c\u0007��\u0001���]���G4\u0002e�� s���)�\u001d`��=�F\"�-R~�\u0007R�\fW\u0007\u00183d����ܰ״o�L}i���k߆���M�~\u0010�Q�=���~\u0005�S�΂]8\"�� �\u0014c���\f�oՑr\u001c\u0006!$\u000f����zR��.\u0014d\u001e��� \t�\u0016��Y���W�����4�\f#�+���?�Z���IF\"\u001e���k[t�H��\t4����{L\u000f1���c�P���R�\u0016�80��\u0013�A1ڞޏd�]�1�H:o��~�HҴj�sŋ՛��~�4\u0017�\t\b�Jn�\u0010;��RZޥٞ�μ�\"�\u0007\u0011�ء�\\���3wc*\u001c�b��z0m\u0002]�\u0014Ph�y�:��\u001d.\"A��:3�̜:�����]j\u001e�R\u0007�\u001e��\u0007���|w.�]\u001c�\u0011�Z��v���携n�\u001d���TO��\"\u0007=\u001d�\u000f�wc�e=z\u0016��̨\u0013J\u001e�=��(\u0017���PW�W����\u001f�F�w�$sE�������P�ݜ�t�o����`�Q\u0019ηv���tJc{�\u0003�)�Xi\u0012\f������ʻ\t��m��LU'~��s0bO\"\u0019K��b��t\nlp^�Og��\u001ct�dwv*\u0013,\b]\u001e9t�?./��aM�}���tK��x\u0014&}hƣ\u0014�ڷ�c�%!\u001d�l�;HR��t>)���aJf�<��{)�� �\u0013�{���\n�����\u0013C�1M��\ng����\u0006t\u0007��\u000e�t��\u000e\u001e̍v\u001cy\t�GJ�\b&�\u001a\u001e\u0012�\u0003?�R\u0018:�N��3�e��0��>����h������w���K���\u0019P�,\u0007��>3\u0017\u0003���B�\u0001\u0004JJ�\u0015��yCHP\u001f\u0017]\u0001�\u0015�\u0017aqx|���\u001f�D�������ࡈ\u0002��\u000f�8B�w�pjoX�ي�L�� GΦ�",
+      "charCount": 747,
+      "wordCount": 18,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    },
+    {
+      "id": "ae8199d1-76be-451b-a618-b723d6b4b73e",
+      "documentId": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "index": 6,
+      "text": "endstream\nendobj\n16 0 obj\n<<\n/Type /Font\n/Subtype /Type1\n/BaseFont /Helvetica-BoldOblique\n>>\nendobj\n17 0 obj\n<<\n/Length 4256\n/Filter /FlateDecode\n>>\nstream",
+      "charCount": 155,
+      "wordCount": 24,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    },
+    {
+      "id": "cb07650b-0212-43a8-bd24-692f5a050a75",
+      "documentId": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "index": 7,
+      "text": "xڽ\\�r�6�}�W�e#�g�ظ�������g�k�%�w#:b�T�������\u001a��o\u0002�%IBU,Ǹ�\b[�\"�'O&� `Q�\u0017�)�g�0Z+^�uc-]�i��Sm*ӈFP�T�\u0012Z����w�H���o����ۇ4\u0016\u0015��4\u0013ZR��rz�~5\u0013�������-�\u0003���3<t�x h\u0004�%�\u001fq&�J�1ʨXF��f���Jz�3���Ԯ��u�9�\u001f����#��q}�7�7?��\u001f7�\u0016>:��������\u001f��o����޿&�x\u0018E\u0010�8J֏n6�[��qm5\u0015���\u0011B�5�K8\u0013�d#]e�d��L�\u001a��vl��\u000ft\u0003��\u0012���O�U��F�g쯮����=Ѹ�7��L�+a��!\u001c\u0012�\u001c؇�J?�8P\u001a��\u0019GV\u0018pV0SQ��г�E�J\u0003����\u001a�bP\u0004�W\n\u0002�*��>\u001c����W\u0003���G�i��\u0003=n�]K\u0017��~�����H�\u001bz|j��/�����m7�\u000e�~Â+�FU�����\u0015go\u0019+`.��π\f��rH�\"�(|\u001c\u0006!\u001c�\n���dn\bS\nǐ��U\u0018×+}^�Vt~��BT0�\u0003�^���q�i\u000f��\u001e}\u0018w�z̀�U�\u000b\u000fX�Q\u0016���=춛�����tX�7��v��3\u00183~>�9;.o������8_\u001c\u000f�a��g&�\u0017�\u0017A�`���l\u001a(\u0011\u0018K��fC�*�\u0018 8\u0003\u0006�qW��>-�����|���gc\fՊY�xc�Џ�\\��%�u�T��:�^�AgiT T��]�\u0014>H��r7V�2W\u0012�\u001cZ$G6u��\\@����#���p�o?�\u001dPN\u001b��\u0010\\\u000b�~r�W����v��{��i��:��y�!\u000e�U�|�?�6�գ�`�X���\u0010qK.�m��\u0019y�b��q\u001a\u000b\u0004�̂��\u0001�z�\u0011�\t�ugg���oEc�d�\u001c�O7�0����-t\u0011`r\u0007�Ώ��&4��|y�~�:�+8�np/������\u001cz�]�\u0013�P���\u0016��\u001c�/�\u001f�}�������~\u0007ӻ݃\u0010���\u000f5��� ���Y.�mw�v��#�\u0018ˣ�\u0016Z��v������]_v!=mO�կt�4�?�t\u000fC� \u0006-�\u001b�����~��5�A�B1 Y]+��\u0003�;���) ~8v���gz7?��Ͽ�\"h�+\u001b\u0018\u0001(��w��\u0001����촣ۇ�H��� ��J��`\u0016;�\u000f\u001f�\u000f�\u000e���\u0011\u0004��K��\u0001f��2� ��\u0015�#�\u0004��\u001b�� 1�2�Gf܈�Y\u0011f,��\u000e�\u001dH\nD�(k狧�\u0016K\u0007>�H�Y� J�'O�]Ao ׻�\u001eh?�t��o�\u0015�t�$&\u001e\"��|M\u000f����3b\u0001��i\u000ew\f�C���M��%HU�+�\f��a+�\u001a�\u0012���P�-R^�������\u0018zl��>�a� )=��2v��!�f]A�MM������ۯ�~i-3J�8�q��ZX��F�j\n�TP;ٴJ��y�\u0001\u0013���",
+      "charCount": 1200,
+      "wordCount": 28,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    },
+    {
+      "id": "abff225b-9b0b-4606-a844-982257e9c9db",
+      "documentId": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "index": 8,
+      "text": "Y\u0011f,��\u000e�\u001dH\nD�(k狧�\u0016K\u0007>�H�Y� J�'O�]Ao ׻�\u001eh?�t��o�\u0015�t�$&\u001e\"��|M\u000f����3b\u0001��i\u000ew\f�C���M��%HU�+�\f��a+�\u001a�\u0012���P�-R^�������\u0018zl��>�a� )=��2v��!�f]A�MM������ۯ�~i-3J�8�q��ZX��F�j\n�TP;ٴJ��y�\u0001\u0013������-\t)\u000b���G\u0007I�+5\u001e=��J��\u0017��/\u0002\n�Zƻ�q��*�t�\bˎ8�<��r��I���䌾��\u0018w�b�\u001dt;��T���\u001b\u0017l5�1v�\u0014#��\bkg�36X���f\u000e،��\u000e��vҿ\u001c\\6\u001a�\u001b^��P!Ї ��?X\"Br�[�\fV�\u0004��� X�H�g��<�����]���\u000e��>�\u0001�\u0004\u0004�-M���0ڌU�0�Udy\\�\u0005�r���0\u0010�QPF\u0018�ಲ\\+\u001eb�/�@P\fn\f�����C0�\u0018�a,��ݵ�C��=,�˝��Q@i8\u001c��9ĵd)(%�w͚+b�c\u0018��}Pn\b�X]�M͡��k�\u0007��\u0001��1����\u001f^9�<|x=�\\�#�\u0002�BI��G����L\bT\n���n�\b��^�����n5\u000e����!��\u00122{�\u000eU\u00071p;�|���\u0018�\u0019۟���\u0005\u001f���^1\t����Ƹ�)�#��2x�\u001cE\u0005��ʁ{^r\u001fV�?}K�ҟ�g��ͮ],���X�\u000f��1 c�\u001aVs��{X�[���3�Ҡc�ޥ�B]p\b���J�¶�\u0015�O7�ؕ�/\u0001Q�K�t%��`WFWl�,\u000fXp�:\u0016����\f�\u0001��N�3e��4(:L��*i�Ά�X\u0004SJ\f�\u001f��\u000e��(�U��K~R-un��#l[���B\u001a9ĥt�c��\u0014�PL#w��.�\u001b\u0017�\u000b��\u00055v�J��qQ\t�\u0006��\u0017�j䴴(��E\u0019��kze�lW��\u0012�-�{m����g;o�#l��H\u001d�T�\u001f\nr�=�����cB��\u0005�mnA\n�\u0006�\u0018u\"wH{�|�7�]w���ћv\u0017�2:���j���s�r�>s-[�F��Z��g }\u001d�^���7'X\tܶ��w��7\\��KU9Zx��*���F�\n�K-?g%*��+Ѱ7u�[%�����(I��\u000b�Q)m��2�p]zqsx���m�T�9r$\u0018S�\u0017�xy�;�g�d%Xct�a���Z)kI����\u0015\u0017�i\\6ş�e��\u000e���=����8Y�=mx$�K�W�@5\u0007�\u0003\fPvZ1��\u0015)�z\u0011\u0005���\u001d\u0003\u00048�lQ�\u001b�!\"=D��:�C��)\u0003\u001a�$�\u0011udt+�uD��\u001a�\u0019y&�B�J\t)�+c!��,��\u001e�\u0007\u001c)C�r\u000f2\u0004ΐk+M�y�!\b\u000b���-A�\u0013o���x-s\u001e�Q\u0001d�CR�����$(8�l\fw�ˎ���ZkT0ٔ+�����I��\"��\"�B��\u0018V�%VM\u001e�W7\u000e���h#s�3�P���\u001c�4�Q\u0014�",
+      "charCount": 1200,
+      "wordCount": 33,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    },
+    {
+      "id": "d0606494-ed7e-4081-9053-7cd0018387e5",
+      "documentId": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "index": 9,
+      "text": "�\u0015)�z\u0011\u0005���\u001d\u0003\u00048�lQ�\u001b�!\"=D��:�C��)\u0003\u001a�$�\u0011udt+�uD��\u001a�\u0019y&�B�J\t)�+c!��,��\u001e�\u0007\u001c)C�r\u000f2\u0004ΐk+M�y�!\b\u000b���-A�\u0013o���x-s\u001e�Q\u0001d�CR�����$(8�l\fw�ˎ���ZkT0ٔ+�����I��\"��\"�B��\u0018V�%VM\u001e�W7\u000e���h#s�3�P���\u001c�4�Q\u0014�2�=!o�b¼�x�$�E,�9���\u0019T\u0002�\"\u0018�\u001e%Zmrڒ��\u001a\u0019�BYˁ��)\u001aQ�\u0012*rq�yX���64f/o\u000e�d�\u0010L\u0015�$h�R�&<4\u001b�\n�)�7\u0017�\"c���>i��&#\u0019{�PR?�P0?\u0005|/�c�#\u0013�t˧���i0��\u0010B�}4���\n�R\t�YX\u001d-1myLgȵ\u0004\u0017���n�JI��Q��iSBW\u0006�\\ⴥ�'4�|�K�\u0012��ΊmP�\n~�$\u001b\u0011C\u0019\fb���E�P��\u001a���o�4H\\\u0001�\u001a��+�h,⚒�LL�)�\tϸ�٠_\u0002H�5Z+\u0004\u0003,�X#�\u0007���е����.,x��w�$�%|��ʌ�$\u0004-I$,�u�,^&\u0001 �- �n� �9k$�A���\u000e�+� �N�3�l\u0007K�",
+      "charCount": 496,
+      "wordCount": 14,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    },
+    {
+      "id": "3a0a0007-3b7e-4397-bd49-81b7b0087162",
+      "documentId": "16e44dc1-cbe2-411f-bdd9-c1702f1b0172",
+      "index": 10,
+      "text": "���\u001dE��\t���hK�\u001f@�\u0011����LË��I\u0001��b���\n��5\u001c�`��\u000eU�ٚ��t��s��\u0017\u0013V�5\u0001)�\tF)�\u0018\u001a�3_�R68g�FP�\u00022�=�e�\u0001i`���F��h��g4oj��єHs\u001ag�\u0006���\u0011l�D�\u0019A���>*�,��Ef���W�٘���p����\u0001��^\u0015�:\u001ayD��\u001a\b�s��\t�\u0006\u0013N׍0�Ҳ�H\u001a\u0019�6�C��pTi\u0001\u0004W�6�s�~T�6dD�uظ=[k\u0004��o\u00021�64�6\u0005���r\u0014L2�\t��{#T�\t>�l�TkQz\f\u0019��\u0019�\u0016@�^Su�)!\u001bѣ-\u001a�\u0014\n�D3u�:Ibp\u0017�S\u0014���6�QCO�|�&Y�`ݩtS\u001b�N�T�A\u0002\u0007��u�3�E���]�T�7�q_\u001d\u001e�V\u001dA(�\n�F�\u0018\u0004\\M�e�킖v�\u0005\u0018�� ъ6:\u0012�\u00120���T�z^�\")A���}� �Τf\u001d8�{B��\u0015b�^��s�������u@\u0004hP�\u0015\u0012�D]\u00160LJ\u0007�n��L��T\u0016��.�m���X�� �^!�z\"v���;�e,�\u000b�!sA�8���+��\u0011�\u0014�1;�Ȓ�\u0011D\u001d\u001az�]\u0012-\u001cL2b�l\u0011�\u001dֲ\t���,�#�8b/�Yozf}A����)��LM�/�\u0019b/�LF���,������^��d$\u0013��\n��%#b�`Ukz�%���%#\"*�����c/�\u001a�/\u000fݧ\u000f��r�I�X��V\f��\u0002\u0002�����\u0018\t����F�\u000b\u001b\u0001\u0001V\u0005a3\u0011�»�d˻��\u000b\t[M�m�n\f0tX��%[L~\u0012� �L\u00146d\n���\u001dY$嬰т��\u000e��o�:�\u0017u��l�k���\u0019J_R\u001a���1C��\u001b��\t̺�3�7f8�\u0013t�\"겄\u0005����F��Z ��=C�e��������=����3T�h�\u0011ux{6�5L]R�\\ugU�LT5|j9���I�",
+      "charCount": 769,
+      "wordCount": 25,
+      "createdAt": "2026-05-05T12:43:23.844Z"
+    }
+  ]
+}
