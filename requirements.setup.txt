@@ -1,0 +1,8 @@
+# Minimal runtime dependencies for local bootstrap
+Flask==3.0.0
+Flask-Cors==4.0.0
+Flask-SQLAlchemy==3.1.1
+Werkzeug==3.0.1
+SQLAlchemy>=2.0.49,<2.1
+python-dotenv==1.0.0
+pg8000==1.31.5

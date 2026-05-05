@@ -18,6 +18,55 @@ standard
 - Database: PostgreSQL
 - Deployment: AWS
 
+## Quick Setup (Default)
+
+Run one command from this repository root:
+
+```bash
+npm run setup
+```
+
+This command will:
+- Create `.env` from `.env.example` if missing
+- Install npm dependencies
+- Create `.venv` and install stable runtime Python dependencies (`requirements.setup.txt`)
+- Check PostgreSQL and create `aerospace_db` if needed
+- Initialize database tables
+
+If you need the broader optional toolchain (extra testing/linting packages), install it manually:
+
+```bash
+./.venv/bin/python -m pip install -r requirements.txt
+```
+
+Then start the app with:
+
+```bash
+npm run dev
+```
+
+## Database Reset and Seed
+
+To reset local demo data and repopulate with a consistent aerospace sample dataset:
+
+```bash
+npm run db:reset-seed
+```
+
+To quickly verify counts:
+
+```bash
+npm run db:status
+```
+
+## One-Command Fresh Start
+
+To run setup, reset seed data, and start frontend + backend together:
+
+```bash
+npm run dev:fresh
+```
+
 ## Speckit
 - Speckit scaffolding: .specify/
 - Constitution: .specify/memory/constitution.md

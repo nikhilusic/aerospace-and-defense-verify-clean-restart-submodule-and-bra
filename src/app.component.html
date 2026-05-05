@@ -1,29 +1,137 @@
-<div class="container">
-  <header>
+<div class="shell">
+  <aside class="screen-nav">
+    <div class="screen-nav__eyebrow">Blueprint Screens</div>
     <h1>{{ title }}</h1>
-    <p>Aerospace & Defense - General Requirements (Business User)</p>
-  </header>
-  
-  <main>
-    <section class="status">
-      <h2>Development Status</h2>
-      <ul>
-        <li>✓ Backend: Python running on http://localhost:8000</li>
-        <li>✓ Frontend: Angular running on http://localhost:4200</li>
-        <li>✓ Architecture: Microservices</li>
-        <li>✓ Database: PostgreSQL 15</li>
-        <li>✓ Deployment: AWS</li>
-      </ul>
+    <p class="screen-nav__context">{{ projectContext }}</p>
+    <div class="screen-nav__meta">
+      <span>Aerospace &amp; Defense</span>
+      <span>{{ timeWindow }}</span>
+    </div>
+
+    <div class="screen-list">
+      <button
+        *ngFor="let screen of screens"
+        type="button"
+        class="screen-list__item"
+        [class.is-active]="screen.id === activeScreen.id"
+        (click)="selectScreen(screen.id)"
+      >
+        <span class="screen-list__route">{{ screen.route }}</span>
+        <strong>{{ screen.title }}</strong>
+        <span>{{ screen.action }}</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="workspace">
+    <section class="hero card">
+      <div>
+        <p class="hero__eyebrow">{{ activeScreen.role }}</p>
+        <h2>{{ activeScreen.title }}</h2>
+        <p class="hero__summary">{{ activeScreen.action }}</p>
+      </div>
+      <div class="hero__route">{{ activeScreen.mockData.routeHint }}</div>
     </section>
-    
-    <section class="next-steps">
-      <h2>Next Steps</h2>
-      <ol>
-        <li>Review specification: <code>specs/1-general-requirements-business-user/spec.md</code></li>
-        <li>Follow implementation plan: <code>specs/1-general-requirements-business-user/plan.md</code></li>
-        <li>Complete story tasks: <code>specs/1-general-requirements-business-user/tasks.md</code></li>
-        <li>Run Speckit workflow: <code>/speckit.plan</code>, <code>/speckit.tasks</code>, <code>/speckit.analyze</code>, <code>/speckit.implement</code></li>
-      </ol>
+
+    <section class="metrics-grid">
+      <article class="metric card" *ngFor="let metric of activeScreen.mockData.metrics">
+        <span class="metric__label">{{ metric.label }}</span>
+        <strong class="metric__value">{{ metric.value }}</strong>
+        <span class="metric__delta">{{ metric.delta }}</span>
+      </article>
+    </section>
+
+    <section class="content-grid">
+      <article class="card panel panel--wide">
+        <div class="panel__header">
+          <h3>Operational Priorities</h3>
+          <span>Blueprint Requirements</span>
+        </div>
+        <ul class="requirement-list">
+          <li *ngFor="let requirement of activeScreen.requirements">{{ requirement }}</li>
+        </ul>
+      </article>
+
+      <article class="card panel">
+        <div class="panel__header">
+          <h3>Trend Signal</h3>
+          <span>Weekly trajectory</span>
+        </div>
+        <div class="trend-chart">
+          <div class="trend-chart__bar" *ngFor="let point of activeScreen.mockData.trendSeries">
+            <div class="trend-chart__column" [style.height.%]="getTrendHeight(point.value)"></div>
+            <span>{{ point.label }}</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="card panel">
+        <div class="panel__header">
+          <h3>Ownership Mix</h3>
+          <span>Breakdown</span>
+        </div>
+        <div class="breakdown-list">
+          <div class="breakdown-list__row" *ngFor="let item of activeScreen.mockData.breakdown">
+            <div class="breakdown-list__labels">
+              <span>{{ item.label }}</span>
+              <strong>{{ item.value }}%</strong>
+            </div>
+            <div class="breakdown-list__track">
+              <div class="breakdown-list__fill" [style.width.%]="getBreakdownWidth(item.value)"></div>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <article class="card panel">
+        <div class="panel__header">
+          <h3>Workflow Timeline</h3>
+          <span>Current stage</span>
+        </div>
+        <div class="timeline">
+          <div class="timeline__item" *ngFor="let item of activeScreen.mockData.timeline">
+            <span class="timeline__dot" [class.is-done]="item.status === 'done'" [class.is-active]="item.status === 'in-progress'"></span>
+            <div>
+              <strong>{{ item.step }}</strong>
+              <p>{{ item.eta }} · {{ item.status }}</p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <article class="card panel panel--wide">
+        <div class="panel__header">
+          <h3>Alert Feed</h3>
+          <span>System events</span>
+        </div>
+        <div class="alert-list">
+          <div class="alert-list__item" *ngFor="let alert of activeScreen.mockData.alerts" [class.is-warning]="alert.severity === 'warning'">
+            <strong>{{ alert.severity }}</strong>
+            <span>{{ alert.message }}</span>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <section class="card panel">
+      <div class="panel__header">
+        <h3>Tracked Records</h3>
+        <span>Mock dataset</span>
+      </div>
+      <div class="records-table">
+        <div class="records-table__head">
+          <span>ID</span>
+          <span>Name</span>
+          <span>Status</span>
+          <span>Owner</span>
+        </div>
+        <div class="records-table__row" *ngFor="let record of activeScreen.mockData.records">
+          <span>{{ record.id }}</span>
+          <span>{{ record.name }}</span>
+          <span>{{ record.status }}</span>
+          <span>{{ record.owner }}</span>
+        </div>
+      </div>
     </section>
   </main>
 </div>

@@ -5,8 +5,12 @@
   "type": "module",
   "description": "Repository generated from specification updates (Aerospace and Defense)",
   "scripts": {
+    "setup": "bash scripts/bootstrap.sh",
+    "db:reset-seed": "bash scripts/db-reset-seed.sh",
+    "db:status": "PAGER=cat psql -d aerospace_db -c \"SELECT COUNT(*) AS requirements_count FROM requirements; SELECT COUNT(*) AS user_stories_count FROM user_stories;\"",
+    "dev:fresh": "npm run setup && npm run db:reset-seed && npm run dev",
     "lint": "eslint .",
-    "dev:backend": "cd backend && /usr/local/bin/python3 run.py",
+    "dev:backend": "bash -lc 'cd backend && if [ -x ../.venv/bin/python ]; then ../.venv/bin/python run.py; else python3 run.py; fi'",
     "dev:frontend": "ng serve --port 4201 --poll",
     "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
     "build": "ng build",
