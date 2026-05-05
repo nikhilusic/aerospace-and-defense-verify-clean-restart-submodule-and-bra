@@ -1,7 +1,7 @@
 # aerospace-and-defense-verify-clean-restart-submodule-and-bra Constitution
 
 Generated on 2026-05-05 through the technology selection workflow.
-Regenerated at: 2026-05-05T12:43:32.174Z
+Regenerated at: 2026-05-05T14:27:48.678Z
 Trigger source: ui-push-story
 
 This constitution defines the baseline engineering standards for the project and applies Siemens-inspired software design principles as mandatory delivery guidance.
