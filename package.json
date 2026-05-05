@@ -1,0 +1,20 @@
+{
+  "name": "aerospace-and-defense-verify-clean-restart-submodule-and-bra",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Repository generated from specification updates (Aerospace and Defense)",
+  "scripts": {
+    "lint": "eslint .",
+    "dev": "echo \"Setup development environment\"",
+    "build": "echo \"Build application\"",
+    "test": "echo \"Run tests\""
+  },
+  "dependencies": {
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "speckit": "^0.1.0"
+  }
+}

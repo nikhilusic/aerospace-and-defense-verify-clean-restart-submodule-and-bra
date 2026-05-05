@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-05-05T12:34:54.103Z",
+  "source": "none",
+  "projectContext": "",
+  "domain": "",
+  "mockDataProfile": {
+    "dataset": "resource-management-default-seed-v1",
+    "timeWindow": "Last 8 weeks",
+    "generatedBy": "default-blueprint-normalizer"
+  },
+  "screens": []
+}
